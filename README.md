@@ -1,11 +1,9 @@
 # game-of-life
 JavaScript HTML Game of life 
 
-## Config.js Color Map
+## Config.js
 
-You can change rectangle color and index from config.js.
-
-**Color enum**
+**Game settings in `config.js`**
 
 ``` js
 gameSettings.canvasSettings = {
@@ -20,4 +18,4 @@ gameSettings.canvasObjectSettings = {
 ```
 
 ## Screenshot from the game
-![Image](https://i.hizliresim.com/1vzwkni.gif)
+![Image](https://i.hizliresim.com/rk8cn4q.gif)
